@@ -1,0 +1,59 @@
+.body {
+  font-family: "Segoe UI", Tahoma, Geneva, Verdana, sans-serif;
+}
+.bi-pencil-square {
+  color: darksalmon;
+}
+input[type="search"] {
+  width: 50%;
+  padding: 12px 12px;
+  margin: 10px 10px 50px 225px;
+  box-sizing: border-box;
+  border: 2px solid rgb(230, 187, 123);
+  background-color: white;
+  color: darksalmon;
+}
+h1,
+h2 {
+  color: darksalmon;
+  text-align: center;
+  line-height: 20px;
+}
+.col {
+  margin: 50px 50px;
+  font-size: 30px;
+  color: rgb(158, 100, 81);
+}
+
+.weatherborder {
+  border: solid rgba(233, 150, 122, 0.504);
+  border-radius: 10px 10px;
+  margin: 10px 10px;
+  border-width: 10px;
+}
+.container3 {
+  margin: 200px 20px 60px;
+}
+.cardw {
+  background-color: rgba(229, 217, 185, 0.496);
+  margin: 30px 30px;
+  border-radius: 20px;
+}
+.cardo {
+  background-color: rgba(226, 144, 119, 0.364);
+  margin: 30px 30px;
+  border-radius: 20px;
+}
+.cardi {
+  background-color: rgba(211, 233, 233, 0.432);
+  margin: 30px 30px;
+  border-radius: 20px;
+}
+.cardin {
+  background-color: rgba(148, 89, 71, 0.351);
+  margin: 30px 30px;
+  border-radius: 20px;
+}
+.bi-plus-square-fill {
+  color: rgb(190, 80, 43);
+}
